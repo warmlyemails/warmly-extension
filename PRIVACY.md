@@ -1,6 +1,6 @@
 # Privacy Policy for Warmly
 
-**Last Updated:** [Today's date]
+**Last Updated:** 9/30/2025
 
 ## Data Collection
 - We do not store any user data on our servers
